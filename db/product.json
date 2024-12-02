@@ -1,3 +1,38 @@
 {
-  "producto": []
+  "producto":
+ [
+    {
+      "id": 1,
+      "nombre": "Collar de plata con colgante de corazón",
+      "descripcion": "Elegante collar de plata de ley 925 con un delicado colgante en forma de corazón. Ideal para un regalo romántico o para uso diario.",
+      "precio": 80,
+      "categoria": "Collares",
+      "imagenes": [
+        "https://cngln.com/media/mageworx/optionfeatures/product/option/value/P/8/P800_1_stone_1_S&W_diamond.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "nombre": "Aretes de oro con perlas",
+      "descripcion": "Sofisticados aretes de oro de 18 quilates con perlas cultivadas. Un clásico atemporal que complementa cualquier atuendo.",
+      "precio": 250,
+      "categoria": "Aretes",
+      "imagenes": [
+        "https://anthonyvincent.us/cdn/shop/products/1_10cce679-e79a-43d4-9b52-bef830c07a89_720x.jpg?v=1664402193g"
+      ],
+      "stock": 8
+    },
+    {
+      "id": 3,
+      "nombre": "Anillo de compromiso con diamante",
+      "descripcion": "Anillo de compromiso de platino con un diamante talla brillante de 0.5 quilates. Una joya excepcional para sellar un compromiso para toda la vida.",
+      "precio": 1500,
+      "categoria": "Anillos",
+      "imagenes": [
+        "https://cngln.com/media/catalog/product/cache/7b5323cb082ecfe9896c4fd0de280a8c/e/n/eng5-800x800_copy.jpg"
+      ],
+      "stock": 3
+    }
+  ]
 }
